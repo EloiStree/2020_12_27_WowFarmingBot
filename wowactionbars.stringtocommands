@@ -1,0 +1,82 @@
+wow:action1 ♦jomi: F1↓ F1↑
+wow:action2 ♦jomi: F2↓ F2↑
+wow:action3 ♦jomi: F3↓ F3↑
+wow:action4 ♦jomi: F4↓ F4↑
+wow:action5 ♦jomi: F5↓ F5↑
+wow:action6 ♦jomi: F6↓ F6↑
+wow:action7 ♦jomi: F7↓ F7↑
+wow:action8 ♦jomi: F8↓ F8↑
+wow:action9 ♦jomi: F9↓ F9↑
+wow:action10♦jomi: F10↓ F10↑
+wow:action11♦jomi: F11↓ F11↑
+wow:action12♦jomi: F12↓ F12↑
+wow:petaction1 ♦mouseutility:click:menupet0
+wow:petaction2 ♦mouseutility:click:menupet1
+wow:petaction3 ♦mouseutility:click:menupet2
+wow:petaction4 ♦mouseutility:click:menupet3
+wow:petaction5 ♦mouseutility:click:menupet4
+wow:petaction6 ♦mouseutility:click:menupet5
+wow:petaction7 ♦mouseutility:click:menupet6
+wow:petaction8 ♦mouseutility:click:menupet7
+wow:petaction9 ♦mouseutility:click:menupet8
+wow:petaction10♦mouseutility:click:menupet9
+wow:buttonleftaction1 ♦mouseutility:click:menudown1
+wow:buttonleftaction2 ♦mouseutility:click:menudown2
+wow:buttonleftaction3 ♦mouseutility:click:menudown3
+wow:buttonleftaction4 ♦mouseutility:click:menudown4
+wow:buttonleftaction5 ♦mouseutility:click:menudown5
+wow:buttonleftaction6 ♦mouseutility:click:menudown6
+wow:buttonleftaction7 ♦mouseutility:click:menudown7
+wow:buttonleftaction8 ♦mouseutility:click:menudown8
+wow:buttonleftaction9 ♦mouseutility:click:menudown9
+wow:buttonleftaction10♦mouseutility:click:menudown10
+wow:buttonleftaction11♦mouseutility:click:menudown11
+wow:buttonleftaction12♦mouseutility:click:menudown12
+wow:buttonrightaction1 ♦mouseutility:click:menudownrightdown0  
+wow:buttonrightaction2 ♦mouseutility:click:menudownrightdown1  
+wow:buttonrightaction3 ♦mouseutility:click:menudownrightdown2  
+wow:buttonrightaction4 ♦mouseutility:click:menudownrightdown3  
+wow:buttonrightaction5 ♦mouseutility:click:menudownrightdown4  
+wow:buttonrightaction6 ♦mouseutility:click:menudownrightdown5  
+wow:buttonrightaction7 ♦mouseutility:click:menudownrightup0
+wow:buttonrightaction8 ♦mouseutility:click:menudownrightup1
+wow:buttonrightaction9 ♦mouseutility:click:menudownrightup2
+wow:buttonrightaction10♦mouseutility:click:menudownrightup3
+wow:buttonrightaction11♦mouseutility:click:menudownrightup4
+wow:buttonrightaction12♦mouseutility:click:menudownrightup5
+wow:buttonleftaction1 ♦mouseutility:click:menudown1 
+wow:buttonleftaction2 ♦mouseutility:click:menudown2 
+wow:buttonleftaction3 ♦mouseutility:click:menudown3 
+wow:buttonleftaction4 ♦mouseutility:click:menudown4 
+wow:buttonleftaction5 ♦mouseutility:click:menudown5 
+wow:buttonleftaction6 ♦mouseutility:click:menudown6 
+wow:buttonleftaction7 ♦mouseutility:click:menudown7 
+wow:buttonleftaction8 ♦mouseutility:click:menudown8 
+wow:buttonleftaction9 ♦mouseutility:click:menudown9 
+wow:buttonleftaction10♦mouseutility:click:menudown10
+wow:buttonleftaction11♦mouseutility:click:menudown11
+wow:buttonleftaction12♦mouseutility:click:menudown12
+wow:actionbar1button1 ♦jomi: 0↓ 0↑
+wow:actionbar1button2 ♦jomi: 1↓ 1↑
+wow:actionbar1button3 ♦jomi: 2↓ 2↑
+wow:actionbar1button4 ♦jomi: 3↓ 3↑
+wow:actionbar1button5 ♦jomi: 4↓ 4↑
+wow:actionbar1button6 ♦jomi: 5↓ 5↑
+wow:actionbar1button7 ♦jomi: 6↓ 6↑
+wow:actionbar1button8 ♦jomi: 7↓ 7↑
+wow:actionbar1button9 ♦jomi: 8↓ 8↑
+wow:actionbar1button10♦jomi: 9↓ 9↑
+wow:actionbar1button11♦jomi: Insert↓ Insert↑
+wow:actionbar1button12♦jomi: Delete↓ Delete↑
+wow:actionbar2button1 ♦jomi: NP0↓ NP0↑
+wow:actionbar2button2 ♦jomi: NP1↓ NP1↑
+wow:actionbar2button3 ♦jomi: NP2↓ NP2↑
+wow:actionbar2button4 ♦jomi: NP3↓ NP3↑
+wow:actionbar2button5 ♦jomi: NP4↓ NP4↑
+wow:actionbar2button6 ♦jomi: NP5↓ NP5↑
+wow:actionbar2button7 ♦jomi: NP6↓ NP6↑
+wow:actionbar2button8 ♦jomi: NP7↓ NP7↑
+wow:actionbar2button9 ♦jomi: NP8↓ NP8↑
+wow:actionbar2button10♦jomi: NP9↓ NP9↑
+wow:actionbar2button11♦jomi: Home↓ Home↑
+wow:actionbar2button12♦jomi: End↓ End↑

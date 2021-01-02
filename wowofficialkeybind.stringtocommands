@@ -1,0 +1,93 @@
+//MOVE
+wow:startmoveforward♦jomi: ArrowUp↓ ArrowUp↑
+wow:stopmoveforward♦jomi: ArrowUp↓ ArrowUp↑
+wow:startmovebackward♦jomi: ArrowDown↓ ArrowDown↑
+wow:stopmovebackward♦jomi: ArrowDown↓ ArrowDown↑
+wow:startturnleft♦jomi: ArrowUp↓ ArrowUp↑
+wow:stopturnleft♦jomi: ArrowUp↓ ArrowUp↑
+wow:startturnright♦jomi: ArrowUp↓ ArrowUp↑
+wow:stopturnright♦jomi: ArrowUp↓ ArrowUp↑
+wow:startstrafeleft♦jomi: ArrowUp↓ ArrowUp↑
+wow:stopstrafeleft♦jomi: ArrowUp↓ ArrowUp↑
+wow:startstraferight♦jomi: ArrowUp↓ ArrowUp↑
+wow:stopstraferight♦jomi: ArrowUp↓ ArrowUp↑
+wow:jump♦jomi: Space↓ Space↑
+wow:startjump♦jomi: Space↓ 
+wow:stopjump ♦jomi: Space↑  
+wow:startmovedown♦jomi: Shift↓ Space↓ 
+wow:stopmovedown ♦jomi: Space↑  Shift↑
+wow:startautorun
+wow:followtarget
+
+//action pages
+wow:actionpage1
+wow:actionpage2
+wow:actionpage3
+wow:actionpage4
+wow:actionpage5
+wow:actionpage6
+wow:actionpageprevious
+wow:actionpagenext
+
+
+// Target
+wow:targetnearestenemy
+wow:targetscanenemy
+
+wow:targetnearestenemyplayer
+wow:targetnearestallyplayer
+wow:targetself
+wow:targetpet
+wow:targetmember1
+wow:targetmember2
+wow:targetmember3
+wow:targetmember4
+wow:targetpetmember1
+wow:targetpetmember2
+wow:targetpetmember3
+wow:targetpetmember4
+
+wow:targetlasthostile
+wow:targetlasttarget
+
+wow:interactwithmouseover
+wow:interactwithtarget
+
+wow:focustarget
+wow:targetfocus
+
+wow:targetmouseover
+
+
+// camera view 
+wow:setview1
+wow:setview2
+wow:setview3
+wow:setview4
+wow:setview5
+wow:saveview1
+wow:saveview2
+wow:saveview3
+wow:saveview4
+wow:saveview5
+wow:nextview
+wow:previousview
+
+
+// markers 
+wow:assignskull
+wow:assigncross
+wow:assignsquare
+wow:assignmoon
+wow:assigntriangle
+wow:assigndiamond
+wow:assigncircle
+wow:assignstar
+wow:removeassignmarker
+
+
+// others
+wow:togglebackpack
+wow:stopcasting
+wow:stopattacking
+wow:dismount

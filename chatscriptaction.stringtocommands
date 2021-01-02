@@ -1,0 +1,88 @@
+//https://wowwiki.fandom.com/wiki/Slash_commands
+wow:cmd: ♦ gamechat:30:/f
+
+
+wow:cmd:follow ♦ jomi:Enter↓ Enter↑ ⌛35 [[/f]] ⌛30  Enter↓ Enter↑
+wow:cmd:dismount ♦ jomi:Enter↓ Enter↑ ⌛35 [[/dismount]] ⌛30  Enter↓ Enter↑
+wow:cmd:leavevehicule ♦ jomi:Enter↓ Enter↑ ⌛35 [[/leavevehicle]] ⌛30  Enter↓ Enter↑
+wow:cmd:trade♦ jomi:Enter↓ Enter↑ ⌛35 [[/trade]] ⌛30  Enter↓ Enter↑
+wow:cmd:calendar ♦ jomi:Enter↓ Enter↑ ⌛35 [[/calendar]] ⌛30  Enter↓ Enter↑
+wow:cmd:timer ♦ jomi:Enter↓ Enter↑ ⌛35 [[/timer]] ⌛30  Enter↓ Enter↑
+wow:cmd:timerstart ♦ jomi:Enter↓ Enter↑ ⌛35 [[/timer play]] ⌛30  Enter↓ Enter↑
+wow:cmd:timerstop ♦ jomi:Enter↓ Enter↑ ⌛35 [[/timer stop]] ⌛30  Enter↓ Enter↑
+
+wow:cmd:page1 ♦ gamechat:30:/changeactionbar 1
+
+wow:cmd:autoattackon ♦ gamechat:30:/startattack
+wow:cmd:autoattackoff ♦ gamechat:30:/stopattack
+wow:cmd:stopcasting ♦ gamechat:30:/stopcasting
+
+
+wow:cmd:markerclear  ♦ gamechat:30:/tm 0
+wow:cmd:markerstar ♦ gamechat:30:/tm 1
+wow:cmd:markerorange ♦ gamechat:30:/tm 2
+wow:cmd:markerpurple ♦ gamechat:30:/tm 3
+wow:cmd:markergreen ♦ gamechat:30:/tm 4
+wow:cmd:markermoon ♦ gamechat:30:/tm 5
+wow:cmd:markerblue ♦ gamechat:30:/tm 6
+wow:cmd:markercross ♦ gamechat:30:/tm 7
+wow:cmd:markerskull ♦ gamechat:30:/tm 8
+
+
+wow:cmd:targetoftarget ♦ gamechat:30:/a
+wow:cmd:targetenemy ♦ gamechat:30:/targetenemy
+wow:cmd:targetenemyplayer ♦ gamechat:30:/targetenemy
+wow:cmd:targetally ♦ gamechat:30:/targetfriend
+
+wow:cmd:unfocus ♦ gamechat:30:/clearfocus
+wow:cmd:focus ♦ gamechat:30:/focus
+wow:cmd:targetfocus♦ gamechat:30:/target focus
+wow:cmd:targetfocustarget♦ gamechat:30:/target focustarget
+wow:cmd:focusplayer♦ gamechat:30:/targetenemyplayer ♦ In 100|gamechat:30:/focus
+
+wow:cmd:logout ♦ gamechat:30:/logout
+wow:cmd:quit ♦ gamechat:30:/quit
+
+// cast
+wow:cast:home ♦ jomi:Enter↓ Enter↑ ⌛35 [[/cast hearthstone]] ⌛30  Enter↓ Enter↑
+wow:cast:loot ♦ jomi:Enter↓ Enter↑ ⌛35 [[/cast loot-a-rang]] ⌛30  Enter↓ Enter↑
+//wow:cast:petdismiss /cast dismiss pet
+//wow:cast:revivepet /cast revive pet
+///cast call pet 1
+///cast call pet 2
+///cast call pet 3
+
+wow:cast:fishing ♦ gamechat:30:/cast fishing
+
+
+/// cast pet
+wow:cast:petassist - Sets pet to assist mode (added in World of Warcraft: Cataclysm Patch 4.2).
+wow:cast:petattack - Sends pet to attack currently selected target.
+wow:cast:petautocastoff - Turn off autocast for a pet spell.
+wow:cast:petautocaston - Turn on autocast for a pet spell.
+wow:cast:petautocasttoggle - Toggle autocast for a pet spell.
+wow:cast:petdefensive - Set pet to defensive.
+wow:cast:petfollow - Set pet to follow you.
+wow:cast:petmoveto - Set pet to move to and stay at a hover-targeted location.
+wow:cast:petpassive - Set pet to passive mode.
+wow:cast:petstay - Set pet to stay where it is at.
+
+
+wow:cast:eat ♦ /use [foodname]
+wow:cast:mountflying ♦ /use Swift Purple Gryphon
+wow:cast:mountshop ♦ /use Tundra Mammoth
+
+
+wow:cast:selectally1♦  gamechat:30:/target [@party1]
+wow:cast:selectally2♦  gamechat:30:/target [@party2]
+wow:cast:selectally3♦  gamechat:30:/target [@party3]
+wow:cast:selectally4♦  gamechat:30:/target [@party4]
+wow:cast:selectallypet1♦  gamechat:30:/target [@partypet1]
+wow:cast:selectallypet2♦  gamechat:30:/target [@partypet2]
+wow:cast:selectallypet3♦  gamechat:30:/target [@partypet3]
+wow:cast:selectallypet4♦  gamechat:30:/target [@partypet4]
+// Can be use with stack to scroll between the ally
+
+
+wow:cast:randominstantattacks♦ /castrandom A murder of crows, Explosive Shot
+wow:cast:randominstantattacks♦ /castrandom reset=10 A murder of crows, Explosive Shot

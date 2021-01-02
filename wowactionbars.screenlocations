@@ -1,0 +1,128 @@
+//⌛ ➤ ☗ | ↓ ↑ ♦
+//.screenlocations
+Center♦rlbt♦0.5♦0.5
+CornerBotLeft♦0.01♦0.01
+CornerTopRight♦1.0♦1.0
+CenterScreenZone♦0.3♦0.3♦0.7♦0.7
+MainScreen♦0.01♦0.01♦0.99♦0.99
+menupet1♦0.349♦0.11
+menupet2♦0.367♦0.11
+menupet3♦0.385♦0.11
+menupet4♦0.404♦0.11
+menupet5♦0.420♦0.11
+menupet6♦0.440♦0.11
+menupet7♦0.456♦0.11
+menupet8♦0.475♦0.11
+menupet9♦0.494♦0.11
+menupet10♦0.513♦0.11
+menupage1 ♦0.32♦0.036
+menupage2 ♦0.34♦0.036
+menupage3 ♦0.36♦0.036
+menupage4 ♦0.38♦0.036
+menupage5 ♦0.40♦0.036
+menupage6 ♦0.42♦0.036
+menupage7 ♦0.44♦0.036
+menupage8 ♦0.46♦0.036
+menupage9 ♦0.48♦0.036
+menupage10 ♦0.50♦0.036
+menupage11♦0.52♦0.036
+menupage12♦0.54♦0.036
+menudown1 ♦0.32♦0.079
+menudown2 ♦0.34♦0.079
+menudown3 ♦0.36♦0.079
+menudown4 ♦0.38♦0.079
+menudown5 ♦0.40♦0.079
+menudown6 ♦0.42♦0.079
+menudown7 ♦0.44♦0.079
+menudown8 ♦0.46♦0.079
+menudown9 ♦0.48♦0.079
+menudown10 ♦0.50♦0.079
+menudown11♦0.52♦0.079
+menudown12♦0.54♦0.079
+menurightleft1♦0.969♦0.655
+menurightleft2♦0.969♦0.620
+menurightleft3♦0.969♦0.580
+menurightleft4♦0.969♦0.550
+menurightleft5♦0.969♦0.513
+menurightleft6♦0.969♦0.475
+menurightleft7♦0.969♦0.440
+menurightleft8♦0.969♦0.410
+menurightleft9♦0.969♦0.370
+menurightleft10♦0.969♦0.340
+menurightleft11♦0.969♦0.300
+menurightleft12♦0.969♦0.260
+
+menurightright1♦0.991♦0.655
+menurightright2♦0.991♦0.620
+menurightright3♦0.991♦0.580
+menurightright4♦0.991♦0.550
+menurightright5♦0.991♦0.513
+menurightright6♦0.991♦0.475
+menurightright7♦0.991♦0.440
+menurightright8♦0.991♦0.410
+menurightright9♦0.991♦0.370
+menurightright10♦0.991♦0.340
+menurightright11♦0.991♦0.300
+menurightright12♦0.991♦0.260
+bagl2r0♦0.924♦0.05
+bagl2r1♦0.940♦0.05
+bagl2r2♦0.955♦0.05
+bagl2r3♦0.972♦0.05
+bagl2r4♦0.988♦0.05
+bagmain♦0.988♦0.05
+avatarplayer♦0.031♦0.95
+avatargroup0♦0.031♦0.75
+avatargroup1♦0.031♦0.68
+avatargroup2♦0.031♦0.60
+avatargroup3♦0.031♦0.52
+avatarpetplayer♦0.053♦0.875
+avatarpetgroup0♦0.053♦0.730
+avatarpetgroup1♦0.053♦0.660
+avatarpetgroup2♦0.053♦0.600
+avatarpetgroup3♦0.053♦0.510
+menubutton0♦0.866♦0.016
+menubutton1♦0.880♦0.016
+menubutton2♦0.891♦0.016
+menubutton3♦0.904♦0.016
+menubutton4♦0.916♦0.016
+menubutton5♦0.928♦0.016
+menubutton6♦0.942♦0.016
+menubutton7♦0.954♦0.016
+menubutton8♦0.966♦0.016
+menubutton9♦0.978♦0.016
+menubutton10♦0.990♦0.016
+menudownrightup0  ♦0.58♦0.079
+menudownrightup1  ♦0.60♦0.079
+menudownrightup2  ♦0.62♦0.079
+menudownrightup3  ♦0.63♦0.079
+menudownrightup4  ♦0.65♦0.079
+menudownrightup5  ♦0.68♦0.079
+menudownrightdown0 ♦0.58♦0.036
+menudownrightdown1 ♦0.60♦0.036
+menudownrightdown2 ♦0.62♦0.036
+menudownrightdown3 ♦0.63♦0.036
+menudownrightdown4 ♦0.65♦0.036
+menudownrightdown5 ♦0.68♦0.036
+openmap ♦0.991♦0.988
+closemap ♦0.892♦0.990
+
+acceptquest♦0.5♦0.5
+acceptrez♦0.5♦0.5
+switchquestdisplay♦0.9458♦0.8268
+
+
+
+lotzone♦0.3♦0.15♦0.7♦0.7
+horizon♦0.2♦0.6♦0.8♦0.9
+
+forwardplayer♦0.5♦0.6
+farforwardplayer♦0.5♦0.8
+leftofplayer♦0.4♦0.5
+rightofplayer♦0.6♦0.5
+leftofscreen♦0.0♦0.5
+rightofscreenr♦0.1♦0.5
+behindplayer♦0.5♦0.43
+maxbehindplayer♦0.5♦0.3
+onplayerhead♦0.5♦0.5
+onplayerbody♦0.5♦0.475
+onplayerfoot♦0.5♦0.40

@@ -1,0 +1,65 @@
+wow:chat:closechat ♦ jomi:  Enter↓ Enter↑
+//s
+wow:chat:openlocalchat  ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/s]] ⌛35 Space↓ space↑   Enter↓ Enter↑
+//p
+wow:chat:openpartychat  ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/p]] ⌛35 Space↓ space↑   Enter↓ Enter↑
+//raid
+wow:chat:openraidchat  ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/raid]] ⌛35 Space↓ space↑   Enter↓ Enter↑
+//i
+wow:chat:openinstancechat  ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/i]] ⌛35 Space↓ space↑   Enter↓ Enter↑
+//g
+wow:chat:openguildchat  ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/g]] ⌛35 Space↓ space↑   Enter↓ Enter↑
+//y
+wow:chat:openyellchat  ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/y]] ⌛35 Space↓ space↑   Enter↓ Enter↑
+//w
+wow:chat:openwhisperchat  ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/w]] ⌛35 Space↓ space↑   Enter↓ Enter↑
+//r
+wow:chat:openreplychat  ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/r]] ⌛35 Space↓ space↑   Enter↓ Enter↑
+
+wow:chat:attacktarget   ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/attacktarget ]]   Enter↓ Enter↑
+wow:chat:bye ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/bye ]]   Enter↓ Enter↑
+wow:chat:charge ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/charge ]]   Enter↓ Enter↑
+wow:chat:cheer ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/cheer ]]   Enter↓ Enter↑
+wow:chat:congratulate ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/congratulate ]]   Enter↓ Enter↑
+wow:chat:flirt ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/flirt ]]   Enter↓ Enter↑
+wow:chat:followme ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/followme ]]   Enter↓ Enter↑
+wow:chat:forthealliance ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/forthealliance ]]   Enter↓ Enter↑
+wow:chat:flee ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/flee ]]   Enter↓ Enter↑
+wow:chat:healme ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/healme ]]   Enter↓ Enter↑
+wow:chat:hello ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/hello ]]   Enter↓ Enter↑
+wow:chat:helpme ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/helpme ]]   Enter↓ Enter↑
+wow:chat:incoming ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/incoming ]]   Enter↓ Enter↑
+wow:chat:no ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/no ]]   Enter↓ Enter↑
+wow:chat:nod ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/nod ]]   Enter↓ Enter↑
+wow:chat:agree ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/nod ]]   Enter↓ Enter↑
+wow:chat:oom ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/oom ]]   Enter↓ Enter↑
+wow:chat:outofmana ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/oom ]]   Enter↓ Enter↑
+wow:chat:openfire ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/openfire ]]   Enter↓ Enter↑
+wow:chat:rasp ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/rasp ]]   Enter↓ Enter↑
+wow:chat:silly ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/silly ]]   Enter↓ Enter↑
+wow:chat:thank ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/thank ]]   Enter↓ Enter↑
+wow:chat:train ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/train ]]   Enter↓ Enter↑
+wow:chat:wait ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/wait ]]   Enter↓ Enter↑
+wow:chat:welcome ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/welcome ]]   Enter↓ Enter↑
+
+wow:chat:applaud ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/applaud ]]   Enter↓ Enter↑
+wow:chat:beg ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/beg ]]   Enter↓ Enter↑
+wow:chat:bow ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/bow ]]   Enter↓ Enter↑
+wow:chat:chicken ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/chicken ]]   Enter↓ Enter↑
+wow:chat:cry ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/cry ]]   Enter↓ Enter↑
+wow:chat:dance ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/dance ]]   Enter↓ Enter↑
+wow:chat:eat ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/eat ]]   Enter↓ Enter↑
+wow:chat:flex ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/flex ]]   Enter↓ Enter↑
+wow:chat:kiss ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/kiss ]]   Enter↓ Enter↑
+wow:chat:kneel ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/kneel ]]   Enter↓ Enter↑
+wow:chat:laugh ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/laugh ]]   Enter↓ Enter↑
+wow:chat:point ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/point ]]   Enter↓ Enter↑
+wow:chat:roar ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/roar ]]   Enter↓ Enter↑
+wow:chat:rude ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/rude ]]   Enter↓ Enter↑
+wow:chat:salute ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/salute ]]   Enter↓ Enter↑
+wow:chat:shy ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/shy ]]   Enter↓ Enter↑
+wow:chat:sit ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/sit ]]   Enter↓ Enter↑
+wow:chat:sleep ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/sleep ]]   Enter↓ Enter↑
+wow:chat:stand ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/stand ]]   Enter↓ Enter↑
+wow:chat:talk ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/talk]]   Enter↓ Enter↑
+wow:chat:wave ♦ jomi:   Enter↓ Enter↑ ⌛35 [[/wave]]   Enter↓ Enter↑
