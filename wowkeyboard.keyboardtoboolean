@@ -1,0 +1,17 @@
+
+NumPadDivide ♦ActionLeft
+NumPadMultiply ♦ActionRight
+NumPadSubstract ♦ActionUp
+NumPadAdd ♦ActionDown
+PageUp ♦PageUp
+PageDown ♦PageDown
+A ♦QuickActionLeft
+E ♦QuickActionRight
+R ♦SecondaryAction1
+F ♦SecondaryAction2
+Pause ♦ActionMiddle
+Shift ♦Shift 
+LeftControl ♦Ctrl
+Space ♦Space
+Alt ♦Alt
+Application ♦SpecialMenu

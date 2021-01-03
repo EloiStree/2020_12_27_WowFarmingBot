@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<AnalogDigitalCompressConfig>
+
+  <PortConnections>
+    <PortConnection portId="20" patternName="Custom" />
+  </PortConnections>
+  <AnalogDigitalCompressPatterns>
+     <AnalogDigitalCompressPattern name="Custom" docUrl="">
+      <digit index="10" label="FootRD" />
+      <digit index="9" label= "FootLT" />
+      <digit index="7" label= "FootRT" />
+      <digit index="8" label= "FootLD" />
+      <digit index="3" label="CustomAltLeft" />
+      <digit index="1" label="CustomAltRight" />
+      <digit index="2" label="CustomLeft" />
+      <digit index="0" label="CustomMidLeft" />
+      <digit index="6" label="CustomMidRight" />
+      <digit index="4" label="CustomRight" />
+    </AnalogDigitalCompressPattern>
+  
+  </AnalogDigitalCompressPatterns>
+
+</AnalogDigitalCompressConfig>
