@@ -1,0 +1,112 @@
+//⌛ ➤ ☗ | ↓ ↑ ♦
+//.screenlocations
+Center♦rlbt♦0.5♦0.5
+CornerBotLeft♦0.01♦0.01
+CornerTopRight♦1.0♦1.0
+CenterScreenZone♦0.3♦0.3♦0.7♦0.7
+MainScreen♦0.01♦0.01♦0.99♦0.99
+menupet0♦0.349♦0.11
+menupet1♦0.367♦0.11
+menupet2♦0.385♦0.11
+menupet3♦0.404♦0.11
+menupet4♦0.420♦0.11
+menupet5♦0.440♦0.11
+menupet6♦0.456♦0.11
+menupet7♦0.475♦0.11
+menupet8♦0.494♦0.11
+menupet9♦0.513♦0.11
+menupage0 ♦0.32♦0.036
+menupage1 ♦0.34♦0.036
+menupage2 ♦0.36♦0.036
+menupage3 ♦0.38♦0.036
+menupage4 ♦0.40♦0.036
+menupage5 ♦0.42♦0.036
+menupage6 ♦0.44♦0.036
+menupage7 ♦0.46♦0.036
+menupage8 ♦0.48♦0.036
+menupage9 ♦0.50♦0.036
+menupage10♦0.52♦0.036
+menupage11♦0.54♦0.036
+menudown0 ♦0.32♦0.079
+menudown1 ♦0.34♦0.079
+menudown2 ♦0.36♦0.079
+menudown3 ♦0.38♦0.079
+menudown4 ♦0.40♦0.079
+menudown5 ♦0.42♦0.079
+menudown6 ♦0.44♦0.079
+menudown7 ♦0.46♦0.079
+menudown8 ♦0.48♦0.079
+menudown9 ♦0.50♦0.079
+menudown10♦0.52♦0.079
+menudown11♦0.54♦0.079
+menurightleft0♦0.969♦0.655
+menurightleft1♦0.969♦0.620
+menurightleft2♦0.969♦0.580
+menurightleft3♦0.969♦0.550
+menurightleft4♦0.969♦0.513
+menurightleft5♦0.969♦0.475
+menurightleft6♦0.969♦0.440
+menurightleft7♦0.969♦0.410
+menurightleft8♦0.969♦0.370
+menurightleft9♦0.969♦0.340
+menurightleft10♦0.969♦0.300
+menurightleft11♦0.969♦0.260
+
+menurightright0♦0.991♦0.655
+menurightrightl♦0.991♦0.620
+menurightright2♦0.991♦0.580
+menurightright3♦0.991♦0.550
+menurightright4♦0.991♦0.513
+menurightright5♦0.991♦0.475
+menurightright6♦0.991♦0.440
+menurightright7♦0.991♦0.410
+menurightright8♦0.991♦0.370
+menurightright9♦0.991♦0.340
+menurightright10♦0.991♦0.300
+menurightright11♦0.991♦0.260
+bagl2r0♦0.924♦0.05
+bagl2r1♦0.940♦0.05
+bagl2r2♦0.955♦0.05
+bagl2r3♦0.972♦0.05
+bagl2r4♦0.988♦0.05
+bagmain♦0.988♦0.05
+avatarplayer♦0.031♦0.95
+avatargroup0♦0.031♦0.75
+avatargroup1♦0.031♦0.68
+avatargroup2♦0.031♦0.60
+avatargroup3♦0.031♦0.52
+avatarpetplayer♦0.053♦0.875
+avatarpetgroup0♦0.053♦0.730
+avatarpetgroup1♦0.053♦0.660
+avatarpetgroup2♦0.053♦0.600
+avatarpetgroup3♦0.053♦0.510
+menubutton0♦0.866♦0.016
+menubutton1♦0.880♦0.016
+menubutton2♦0.891♦0.016
+menubutton3♦0.904♦0.016
+menubutton4♦0.916♦0.016
+menubutton5♦0.928♦0.016
+menubutton6♦0.942♦0.016
+menubutton7♦0.954♦0.016
+menubutton8♦0.966♦0.016
+menubutton9♦0.978♦0.016
+menubutton10♦0.990♦0.016
+menudownrightup0 ♦0.58♦0.079
+menudownrightup1 ♦0.60♦0.079
+menudownrightup2 ♦0.62♦0.079
+menudownrightup3 ♦0.63♦0.079
+menudownrightup4 ♦0.65♦0.079
+menudownrightup5 ♦0.68♦0.079
+menudownrightdown0 ♦0.58♦0.036
+menudownrightdown1 ♦0.60♦0.036
+menudownrightdown2 ♦0.62♦0.036
+menudownrightdown3 ♦0.63♦0.036
+menudownrightdown4 ♦0.65♦0.036
+menudownrightdown5 ♦0.68♦0.036
+openmap ♦0.991♦0.988
+closemap ♦0.892♦0.990
+
+
+
+lotzone♦0.3♦0.15♦0.7♦0.7
+horizon♦0.2♦0.6♦0.8♦0.9

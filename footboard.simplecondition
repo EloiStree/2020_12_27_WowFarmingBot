@@ -66,7 +66,7 @@ wow + ActionLeft♦ jomi:  4↓ 4↑  ♦ ☗LoopOnTrue 400
 wow + ActionLeft↑♦jomi:  np3↓ np3↑     ♦ ☗TriggerOnTrue
 
 wow + ActionMiddle↑♦ jomi: Escape↓ Escape↑   ♦ ☗TriggerOnTrue
-wow + ActionMiddle↓♦ In 50|jomiraw:ms:l  ♦ ☗TriggerOnTrue
+wow + ActionMiddle↓♦ In 50|jomiraw:ms:l  ♦ ☗TriggerOnTr
 wow + ActionMiddle↓♦ jomi: F12↓ F12↑   ♦ ☗TriggerOnTrue
 
 
@@ -76,5 +76,12 @@ wow + ActionMiddle↓♦ jomi: F12↓ F12↑   ♦ ☗TriggerOnTrue
 wow + FarmingButton ♦ boolswitch:turnaround ♦ ☗TriggerOnTrue
 wow + turnaround♦ jomi: Q↓ ⌛35  Q↑  tab↓ ⌛10   backspace↓ ⌛10  backspace↑ ♦ ☗LoopOnTrue 1000
 wow + turnaround♦ jomi: space↓ ⌛35  space↑♦ ☗LoopOnTrue 25000
-
 wow + turnaround♦ macro:wow:farmspamsequence ♦ ☗LoopOnTrue 3500
+
+
+wow + Spam0to9 ♦ boolswitch:SpamLoop0to9 ♦ ☗TriggerOnTrue
+wow + SpamLoop0to9 ♦  jomi: Q↓ ⌛35  Q↑  tab↓ ⌛10   backspace↓ ⌛10  backspace↑ ♦ ☗LoopOnTrue 1000
+wow + SpamLoop0to9 ♦  jomi: space↓ ⌛35  space↑♦ ☗LoopOnTrue 25000
+wow + SpamLoop0to9 ♦  mouseutility:gridclick:CenterScreenZone:20:10:10 ♦ ☗LoopOnTrue 15000
+wow + SpamLoop0to9 ♦  mouseutility:gridclick:Horizontal:20:10:10 ♦ ☗LoopOnTrue 19000
+wow + SpamLoop0to9 ♦  jomi:0↓ 0↑ ⌛50 1↓ 1↑ ⌛50 2↓ 2↑ ⌛50 3↓ 3↑ ⌛50 4↓ 4↑ ⌛50 5↓ 5↑ ⌛50 6↓ 6↑ ⌛50 7↓ 7↑ ⌛50 8↓ 8↑ ⌛50 9↓ 9↑  ♦ ☗LoopOnTrue 2000
