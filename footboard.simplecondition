@@ -22,9 +22,9 @@ wow+ Ctrl↓ ♦ In 550| jomiraw:ms:l ♦ ☗TriggerOnTrue
 
 //wow+ SpecialMenu↓♦ jomi:Enter↓ Enter↑ [[/use Mecha-Blast Rocket]]  Enter↓ Enter↑♦ ☗TriggerOnTrue
 
-wow+ SpecialMenu♦ jomi:Enter↓ Enter↑ [[/use Gnomish Gravity Well]]  Enter↓ Enter↑♦ ☗LoopOnTrue 1300
+//wow+ ♦ jomi:Enter↓ Enter↑ [[/use Gnomish Gravity Well]]  Enter↓ Enter↑♦ ☗LoopOnTrue 1300
 
-wow+ SpecialMenu↑♦ jomi: 0↓ 0↑♦ ☗TriggerOnTrue
+//wow+ SpecialMenu↑♦ jomi: 0↓ 0↑♦ ☗TriggerOnTrue
 
 wow + footld↑100 ♦ jomi: Z↓   S↓   ♦ ☗TriggerOnTrue
 wow + footld↑100 ♦ In 50| jomi: F1↓ F1↑ ♦ ☗TriggerOnTrue
@@ -65,3 +65,10 @@ wow + ActionMiddle↓♦ In 50|jomiraw:ms:l  ♦ ☗TriggerOnTrue
 wow + ActionMiddle↓♦ jomi: F12↓ F12↑   ♦ ☗TriggerOnTrue
 
 
+
+
+wow+SpecialMenu♦boolswitch:turnaround ♦ ☗TriggerOnTrue
+wow + turnaround♦ jomi: Q↓ ⌛35  Q↑  tab↓ ⌛10   backspace↓ ⌛10  backspace↑ ♦ ☗LoopOnTrue 1000
+wow + turnaround♦ jomi: space↓ ⌛35  space↑♦ ☗LoopOnTrue 25000
+
+wow + turnaround♦ macro:wow:farmspamsequence ♦ ☗LoopOnTrue 3500
