@@ -1,0 +1,10 @@
+
+wow + brainlesshealasked ♦ boolswitch:brainlessheal ♦ ☗TriggerOnTrue
+
+
+wow + DruidFarming ♦ boolswitch:DruidFarmingLoop ♦ ☗TriggerOnTrue
+//wow + DruidFarmingLoop ♦ macro:wow:druidfarmingstart♦  ☗TriggerOnTrue
+//wow + DruidFarmingLoop ♦ macro:wow:druidfarmingtick♦ ☗LoopOnTrue 300
+//wow + DruidFarmingLoop ♦ jomi: Enter↓ Enter↑ [[/use Loot-A-Rang]] Enter↓ Enter↑ ♦ ☗LoopOnTrue 5123
+//wow + DruidFarmingLoop ♦ macro:wow:druidfarmingstop♦  ☗TriggerOnFalse
+wow + DruidFarmingLoop ♦macro:wow:turnaroundfarming ♦ ☗LoopOnTrue 5500

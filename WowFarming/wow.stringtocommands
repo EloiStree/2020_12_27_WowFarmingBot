@@ -40,7 +40,7 @@ wow:portedesombresfarfoward♦macro:wow:portedesombres♦In 100|mouseutility:lef
 wow:portedesombresfarleft♦macro:wow:portedesombres♦In 400|mouseutility:leftclick:leftofscreen
 wow:portedesombresfarright♦macro:wow:portedesombres♦In 400|mouseutility:leftclick:rightofscreen
 wow:portedesombresonmouse♦screenrec:save:teleport♦macro:wow:portedesombres♦In 150|jomiraw:ms:l♦In 100|screenrec:recover:teleport
-screenrec:save:fishing♦In 150|macro:wow:stopfishing♦In 2000|macro:wow:startfishing♦
+
 
 ///Traps
 wow:freezetrap♦macro:wow:menurightleft9
@@ -210,15 +210,18 @@ wow:equipmentandbag♦jomi:k↓ k↑ i↓ i↑
 //wow:instant360♦jomimacro: 
 
 
-
+  
 //VIEW
-wow:nextview♦jomi:VK_INSERT↓ VK_INSERT↑ 
-wow:previousview♦jomi:VK_DELETE↓ VK_DELETE↑ 
+wow:nextview♦jomi:VK_INSERT↓ VK_INSERT↑  
+wow:previousview♦jomi:VK_DELETE↓ VK_DELETE↑  
 
 
 
-wow:startfishing♦jomiraw:mm:0.99%:0.70%♦In 250|jomiraw:ms:l
-//wow:startfishing♦In 200|jomiraw:mm:0.99%:0.70%♦In 250|jomiraw:ms:l
-wow:stopfishing ♦mouseutility:gridleftclick:0.4:0.4:0.6:0.6:20
-wow:collectandrestartfishing♦screenrec:save:fishing♦In 150|macro:wow:stopfishing♦In 2000|macro:wow:startfishing♦In 2400|screenrec:recover:fishing
+wow:startfishing♦jomi:w↓ w↑ 
+wow:stopfishing ♦mouseutility:gridclick:FishingSpamZone:20:10:1
+//wow:collectandrestartfishing♦screenrec:save:fishing♦In 150|macro:wow:stopfishing♦In 2000|macro:wow:startfishing♦In 2400|screenrec:recover:fishing
+wow:collectandrestartfishing♦macro:wow:stopfishing♦jomi: ⌛2500 space↓ space↑ ⌛1500 w↓ w↑♦macro:wow:startfishingbreak
+wow:startfishingbreak ♦bool:fishingpause:true♦In 7000|bool:fishingpause:false
+//wow:fishandstartfishingbreak ♦jomi:   ♦ macro:wow:startfishingbreak 
+
 

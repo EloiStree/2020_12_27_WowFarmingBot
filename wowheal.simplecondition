@@ -1,0 +1,9 @@
+
+wow + brainlesshealasked ♦ boolswitch:brainlesshealing♦ ☗TriggerOnTrue
+wow + brainlesshealing♦jomi:X +  F3 ⌛300 F4↓ F4↑⌛2000  F2↓ F2↑  ♦ ☗LoopOnTrue 14005
+wow + brainlesshealing♦jomi:X + c +  F3 ⌛300 F4↓ F4↑⌛2000  F2↓ F2↑♦ ☗LoopOnTrue 4012
+wow + brainlesshealing♦jomi:X + v +  F3 ⌛300 F4↓ F4↑⌛2000  F2↓ F2↑  ♦ ☗LoopOnTrue 8652
+wow + brainlesshealing♦jomi: space↓ space↑ ♦ ☗LoopOnTrue 60000
+
+//wow + brainlessheal ♦  mouseutility:gridclick:CenterScreenZone:20:10:10 ♦ ☗LoopOnTrue 45000
+wow + brainlessheal ♦ jomi: Enter↓ Enter↑ [[/use Loot-A-Rang]] Enter↓ Enter↑ ♦ ☗LoopOnTrue 15123
