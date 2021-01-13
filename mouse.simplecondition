@@ -1,0 +1,30 @@
+➤ ☗ | ↓ ↑ ♦
+
+
+//wow + ActionDown↓♦ jomi:F9↓ F9↑ 0↓ 0↑ NP0↓ NP0↑ ⌛100 Delete↓ Delete↑  ♦ ☗TriggerOnTrue
+//wow + ActionDown↓♦ In 500|jomiraw:ms:l  ♦ ☗TriggerOnTrue
+//wow + ActionDown↓♦ In 1000| jomi:  2↓ 2↑  ♦ ☗TriggerOnTrue
+//wow + ActionDown↓ ♦ In 1200|jomi: F8↓ F8↑♦ ☗TriggerOnTrue
+//wow + ActionUp↓♦ jomi: F10↓ F10↑  NP1↓ NP1↑  1↓ 1↑  F11↓ F11↑  ♦ ☗TriggerOnTrue
+//wow + PageUp↓♦ jomi: 9↓ 9↑ NP9↓ NP9↑ 8↓ 8↑ NP8↓ NP8↑ ♦ ☗TriggerOnTrue
+////wow + ActionLeft♦ macro:wow:fulltraps♦ ☗TriggerOnTrue+
+//
+//
+//wow + ActionRight♦ jomi:  F2↓ F2↑ F3↓ F3↑  6↓ 6↑  3↓ 3↑ ♦ ☗LoopOnTrue 100
+//wow + ActionRight↑♦ jomi: np3↓ np3↑ F6↓ F6↑   ♦ ☗TriggerOnTrue
+//wow + ActionRight↑♦ In 1000|jomi: np3↓ np3↑ F6↓ F6↑   ♦ ☗TriggerOnTrue
+//
+//wow + ActionLeft↓♦ jomi:  NP6↓ NP6↑  NP4↓ NP4↑  ♦ ☗TriggerOnTrue
+//wow + ActionLeft♦ jomi:  NP4↓ NP4↑  ♦ ☗LoopOnTrue 200
+//wow + ActionLeft♦ jomi:  4↓ 4↑  ♦ ☗LoopOnTrue 400
+////wow + ActionLeft↓♦ In 1000| jomi:  F8↓ F8↑   ♦ ☗TriggerOnTrue
+////wow + ActionLeft↓♦ In 1100|jomiraw:ms:l   ♦ ☗TriggerOnTrue
+//wow + ActionLeft↑♦jomi:  np3↓ np3↑     ♦ ☗TriggerOnTrue
+//
+//wow + ActionMiddle↑♦ jomi: Escape↓ Escape↑   ♦ ☗TriggerOnTrue
+//wow + ActionMiddle↓♦ In 50|jomiraw:ms:l  ♦ ☗TriggerOnTr
+//wow + ActionMiddle↓♦ jomi: F12↓ F12↑   ♦ ☗TriggerOnTrue
+
+//
+wow + druidheal +ActionLeft♦ jomi:  F2↓ F2↑ ⌛1700  S↓ Z↓ ⌛100 F4↓ F4↑  ⌛1700  S↑ Z↑ ♦ ☗TriggerOnTrue
+wow + druidheal +ActionDown♦ jomi:  F11↓ F11↑ ⌛1700  S↓ Z↓ ⌛100 F6↓ F6↑  ⌛1700  S↑ Z↑ ♦ ☗TriggerOnTrue

@@ -1,0 +1,14 @@
+
+//type of class use
+hunter♦false
+hunterbeast♦false
+hunterprecision♦false
+druid♦true
+druidheal♦true
+
+//context
+isfishing♦true
+acutionhouse♦false
+
+//extra hardware
+hasfootboard♦true

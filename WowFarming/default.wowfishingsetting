@@ -1,0 +1,5 @@
+☗fishingcastcommandline macro:wow:collectandrestartfishing
+☗fishingtriggercastcondition wow + fishingsound
+☗fishingactivecondition wow + isfishing 
+☗fishingcastpause 4000
+☗fishingrecallduration 22000

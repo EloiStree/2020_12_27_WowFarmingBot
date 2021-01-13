@@ -1,0 +1,30 @@
+➤ ☗ | ↓ ↑ ♦
+
+wow + FarmingButton ♦ boolswitch:turnaround ♦ ☗TriggerOnTrue
+wow + hunter +turnaround♦ jomi: Q↓ ⌛35  Q↑  tab↓ ⌛10  tab↑ ♦ ☗LoopOnTrue 1000
+wow + hunter + turnaround♦ jomi: space↓ ⌛35  space↑♦ ☗LoopOnTrue 25000!
+wow + hunter + turnaround♦ macro:wow:farmspamsequence ♦ ☗LoopOnTrue 3500
+wow + hunter + turnaround♦ jomi: tab↓ ⌛35  tab↑ ⌛35 g↓ ⌛35  g↑ ♦ ☗LoopOnTrue 3000
+
+wow + druid + turnaround♦ jomi: Q↓ ⌛5000  Q↑  ⌛35 x↓  x↑  ♦ ☗LoopOnTrue 1000
+wow + druid + turnaround♦ jomi: space↓ ⌛35  space↑♦ ☗LoopOnTrue 25000
+//wow + druid + turnaround♦ macro:wow:farmspamsequence ♦ ☗LoopOnTrue 3500
+wow + druid + turnaround♦ jomi: tab↓ ⌛35  tab↑  ⌛35 0↓ ⌛35  0↑ ⌛35 g↓ ⌛35  g↑ ⌛35 1↓ ⌛35  1↑ ♦ ☗LoopOnTrue 500
+
+
+wow + Spam0to9 ♦ boolswitch:SpamLoop0to9 ♦ ☗TriggerOnTrue
+wow + SpamLoop0to9 ♦  jomi: G↓ ⌛35  G↑  tab↓ ⌛10 tab↑ ♦ ☗LoopOnTrue 15000
+wow + SpamLoop0to9 ♦  jomi: space↓ ⌛35  space↑  O↓ ⌛35  O↑  ♦ ☗LoopOnTrue 25000
+wow + SpamLoop0to9 ♦  mouseutility:gridclick:CenterScreenZone:20:10:10 ♦ ☗LoopOnTrue 30000
+wow + SpamLoop0to9 ♦  mouseutility:gridclick:Horizontal:20:10:10 ♦ ☗LoopOnTrue 45000
+wow + SpamLoop0to9 ♦  jomi:0↓ 0↑ ⌛50 1↓ 1↑ ⌛50 2↓ 2↑ ⌛50 3↓ 3↑ ⌛50 4↓ 4↑ ⌛50 5↓ 5↑ ⌛50 6↓ 6↑ ⌛50 7↓ 7↑ ⌛50 8↓ 8↑ ⌛50 9↓ 9↑  ♦ ☗LoopOnTrue 10000
+
+
+wow + brainlesshealasked ♦ boolswitch:brainlesshealing♦ ☗TriggerOnTrue
+wow + brainlesshealing♦jomi:X +  F3 ⌛300 F4↓ F4↑⌛2000  F2↓ F2↑  ♦ ☗LoopOnTrue 14005
+wow + brainlesshealing♦jomi:X + c +  F3 ⌛300 F4↓ F4↑⌛2000  F2↓ F2↑♦ ☗LoopOnTrue 4012
+wow + brainlesshealing♦jomi:X + v +  F3 ⌛300 F4↓ F4↑⌛2000  F2↓ F2↑  ♦ ☗LoopOnTrue 8652
+wow + brainlesshealing♦jomi: space↓ space↑ ♦ ☗LoopOnTrue 60000
+
+//wow + brainlessheal ♦  mouseutility:gridclick:CenterScreenZone:20:10:10 ♦ ☗LoopOnTrue 45000
+wow + brainlessheal ♦ jomi: Enter↓ Enter↑ [[/use Loot-A-Rang]] Enter↓ Enter↑ ♦ ☗LoopOnTrue 15123

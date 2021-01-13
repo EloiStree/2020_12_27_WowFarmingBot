@@ -6,3 +6,4 @@
 //
 //wow +!fishingpause+ FishingSound♦ mouseutility:gridclick:FishingSpamZone:20:10:1  ♦ ☗TriggerOnTrue
 //wow ♦ macro:wow:collectandrestartfishing♦ ☗LoopOnTrue 25000 ☗TriggerOnTrue
+//wow+macrotest ♦ macro:wow:auctionhousefishingcheck♦ ☗TriggerOnTrue

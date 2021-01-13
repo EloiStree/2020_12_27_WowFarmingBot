@@ -1,0 +1,35 @@
+//⌛ ➤ ☗ | ↓ ↑ ♦ .timeofdaytocommands
+//At 12:30♦jomi: [[Hey hey !]]
+//At 23:00♦jomi: [[Hey A !]]
+//At 12h 30m 50s 500ms♦jomi: [[Ho Ho ?]]
+
+//At 21h 20m 30s 0ms♦jomi:Enter↓ Enter↑ [[/use Lane Snapper]] Enter↓ Enter↑
+//At 21h 20m 35s 0ms♦jomi:Enter↓ Enter↑ [[/use Lane Snapper]] Enter↓ Enter↑
+//At 21h 21m 59s 0ms♦jomi:Enter↓ Enter↑ [[/use Lane Snapper]] Enter↓ Enter↑
+At 01:17 ♦windownative:focus:Unity.exe
+//At 23:48 ♦macro:wow:relog
+
+
+Every 1 second   ♦
+Every 2 seconds  ♦
+Every 3 seconds  ♦ 
+Every 4 seconds  ♦
+Every 5 seconds  ♦
+Every 10 seconds ♦ 
+Every 15 seconds ♦
+//Every 20 seconds ♦macro:wow:collectandrestartfishing 
+Every 30 seconds ♦
+Every 1 minute   ♦
+Every 2 minutes  ♦
+Every 3 minutes  ♦
+Every 4 minutes  ♦
+Every 5 minutes  ♦
+//Every 10 minutes ♦jomi:Enter↓ Enter↑ [[/use Nightcrawlers]] Enter↓ Enter↑
+Every 15 minutes ♦
+Every 20 minutes ♦
+//Every 30 minutes ♦ jomi: space↓ space↑
+Every 1 hour     ♦
+Every 2 hour     ♦
+Every 3 hour     ♦
+Every 4 hour     ♦
+Every 6 hour     ♦

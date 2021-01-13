@@ -1,12 +1,14 @@
 ➤ ☗ | ↓ ↑ ♦
-wow + PageDown♦jomi:Delete↓ Delete↑  ♦ ☗Time 0   ☗TriggerOnRange
-wow + PageDown♦jomiraw:ms:l♦ ☗Time 150   ☗TriggerOnRange
-wow + PageDown♦jomi:Insert↓ Insert↑  ☗Time 1500   ☗TriggerOnRange
-wow + PageDown♦jomiraw:ms:l ♦ ☗Time 1750   ☗TriggerOnRange
-wow + PageDown♦jomi:  End↓ End↑ ♦ ☗Time 3000   ☗TriggerOnRange
-wow + PageDown♦jomiraw:ms:l ♦ ☗Time 3250   ☗TriggerOnRange
 
-wow +usingfoot+ !footrt ♦ jomi: NP2↓ NP2↑♦ ☗Time 0   ☗TriggerOnRange
-wow +usingfoot+ !footrt ♦ jomiraw:ms:l♦ ☗Time 100  ☗TriggerOnRange
-wow +usingfoot+ !footrt ♦ jomi: NP2↓ NP2↑♦ ☗Time 2000   ☗TriggerOnRange
-wow +usingfoot+ !footrt ♦ jomiraw:ms:l♦ ☗Time 2100 ☗TriggerOnRange
+
+//wow + PageDown♦jomi:Delete↓ Delete↑  ♦ ☗Time 0   ☗TriggerOnRange
+//wow + PageDown♦jomiraw:ms:l♦ ☗Time 150   ☗TriggerOnRange
+//wow + PageDown♦jomi:Insert↓ Insert↑  ☗Time 1500   ☗TriggerOnRange
+//wow + PageDown♦jomiraw:ms:l ♦ ☗Time 1750   ☗TriggerOnRange
+//wow + PageDown♦jomi:  End↓ End↑ ♦ ☗Time 3000   ☗TriggerOnRange
+//wow + PageDown♦jomiraw:ms:l ♦ ☗Time 3250   ☗TriggerOnRange
+
+//wow +usingfoot+ !footrt ♦ jomi: NP2↓ NP2↑♦ ☗Time 0   ☗TriggerOnRange
+//wow +usingfoot+ !footrt ♦ jomiraw:ms:l♦ ☗Time 100  ☗TriggerOnRange
+//wow +usingfoot+ !footrt ♦ jomi: NP2↓ NP2↑♦ ☗Time 2000   ☗TriggerOnRange
+//wow +usingfoot+ !footrt ♦ jomiraw:ms:l♦ ☗Time 2100 ☗TriggerOnRange

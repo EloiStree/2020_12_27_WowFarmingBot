@@ -1,0 +1,7 @@
+☗name Relog the player
+☗callid wow:relog
+☗description 
+0♦bool:prioritymacrobreak:true
+20000♦jomi: Enter↓ Enter↑  [[/logout]] Enter↓ Enter↑
+60000♦jomi: Enter↓ Enter↑
+80000♦bool:prioritymacrobreak:false
