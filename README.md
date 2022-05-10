@@ -10,3 +10,7 @@ I am not playing wow for wow, but to train myself to code macro, macro in put an
 Please don't use your power for evil.
 
 On that please enjoy my research.
+
+
+> PS: Use cheat and be ready to be ban. So don't do it on your main account.
+> I am not responsible of your ban if you use my tools.**
